@@ -1,5 +1,5 @@
 # tip calculator
-program will take total amount, put in a percentage and then split amongst individuals
+JavaScript program will take total amount, put in a percentage and then split amongst individuals
 
 
 In action
